@@ -1,5 +1,9 @@
 # NexFlow – AI Decision Flow
 
+## Application Preview
+
+![NexFlow Workflow Overview](screenshots/nexflow-workflow-overview.png)
+
 NexFlow is an AI-powered visual workflow builder that allows users to create, connect, and execute decision-based workflows. It uses React Flow to design workflows, Inngest to execute durable AI decision steps, and Groq's LLM API to generate YES/NO decisions dynamically.
 
 ## Features
